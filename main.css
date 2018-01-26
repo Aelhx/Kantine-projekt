@@ -1,0 +1,40 @@
+/*denne bruges til login.html ændre*/
+
+.box {
+    position: absolute;
+    top: 50px;
+    left: 700px;
+    width: 350px;
+    height: 500px;
+    border: transparent;
+    color: #f5fff8;
+}
+
+.opretBruger-box {
+    background-image: url("https://www.spisestuerne.dk/assets/bigs/2.jpg");
+    height: 100vh;
+    padding-top: 150px;
+}
+.loginbox {
+    background-image: url("https://www.spisestuerne.dk/assets/bigs/1.jpg");
+    height: 100vh;
+    color: #f9fbff;
+    padding-top: 150px;
+
+
+}
+
+.kanter-rød {
+    background-color: white;
+    border: 2px solid red;
+}
+
+.kanter-gul {
+    background-color: white;
+    border: 2px solid yellow;
+}
+
+.btn
+{
+
+}
